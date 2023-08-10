@@ -93,6 +93,7 @@ List of commands this console current supports:
 ## Authors
 Kevin Sagini Oroko - [Github](https://github.com/Makish2023) / [Twitter](https://twitter.com/SaginiKevin2)  
 
+Samuel Leibo - [Github](https://github.com/Samibo-cmd)
 ## License
 Public Domain. No copyright protection. 
 
