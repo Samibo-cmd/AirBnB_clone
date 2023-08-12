@@ -1393,6 +1393,3 @@ class TestCityDotNotation(unittest.TestCase):
                                  f'City.destroy({cty.id})'))
             self.assertNotIn("City.{}".format(
                 cty.id), storage.all().keys())
-
-    if __name__ == "__main__":
-    unittest.main()
