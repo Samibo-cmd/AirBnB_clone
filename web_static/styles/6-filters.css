@@ -32,12 +32,12 @@ li {
 
 .popover {
     display: none;
-    width: 100%;
+    width: 98%;
     background-color: #FAFAFA;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
     position: relative;
-    margin-left: -40px;
+    margin-left: -35px;
 }
 
 div.locations:hover ul.popover {
@@ -50,7 +50,12 @@ div.amenities:hover ul.popover {
 
 h2 {
     font-size: 16px;
+    margin-left: -20px;
 }
+.lists {
+    margin-left: -43px;
+}
+
 button {
     font-size: 18px;
     background-color: #ff5a5f;
